@@ -1,0 +1,2 @@
+This project uses C++ to create an interactive terminal based black jack game. The game allows the user to choose how many decks go into the shoe and how much they would like to bet.
+Then it plays like a normal game of black jack allowing the player to hit, stand, double down, or surrender. 
